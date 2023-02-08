@@ -1,0 +1,7 @@
+s1;EFe and !AXe;True
+s2;EXh;False
+s3;AX((EFe)and(AFh));False
+s4;AX(!h->!e);True
+s5;!EF(c and h);False
+s6;EXs and EXc;True
+s7;AF(c or h);True
